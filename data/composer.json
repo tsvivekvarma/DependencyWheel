@@ -21,7 +21,7 @@
     "require": {
         "php":                                  ">=5.3.3",
 
-        "athari/yalinqo":                       "*@dev",
+        "vivek":                       "*@dev",
         "doctrine/doctrine-bundle":             "1.2.*@dev",
         "doctrine/doctrine-fixtures-bundle":    "2.2.*",
         "doctrine/orm":                         "~2.3",
